@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "//maikyh.github.io/miguel-garza/static/css/main.079daec5.css",
+    "main.js": "//maikyh.github.io/miguel-garza/static/js/main.4bfc4d01.js",
+    "static/media/TheMangaBrowser.png": "//maikyh.github.io/miguel-garza/static/media/TheMangaBrowser.3922179c20e95fc9aacf.png",
+    "static/media/ConqueringSeattle.png": "//maikyh.github.io/miguel-garza/static/media/ConqueringSeattle.fd6390b41c7cf906eb37.png",
+    "static/media/logo.png": "//maikyh.github.io/miguel-garza/static/media/logo.88b51271ac99581163cc.png",
+    "static/media/TikTok-Festival.png": "//maikyh.github.io/miguel-garza/static/media/TikTok-Festival.90ced50291ecf2a2bc1e.png",
+    "static/media/Miguel Garza Resume.pdf": "//maikyh.github.io/miguel-garza/static/media/Miguel Garza Resume.7cdf6860d9edffa19793.pdf",
+    "static/media/me.jpeg": "//maikyh.github.io/miguel-garza/static/media/me.f9163fe9b6fb4140c4aa.jpeg",
+    "static/media/banner.png": "//maikyh.github.io/miguel-garza/static/media/banner.45fa4a290b461f9ea629.png",
+    "static/media/react.png": "//maikyh.github.io/miguel-garza/static/media/react.236e02a25e48dfbd528d.png",
+    "static/media/java.png": "//maikyh.github.io/miguel-garza/static/media/java.04584919241178ad427f.png",
+    "static/media/graphql.png": "//maikyh.github.io/miguel-garza/static/media/graphql.89825eab47138f364856.png",
+    "static/media/mysql.png": "//maikyh.github.io/miguel-garza/static/media/mysql.c49e99a89a0ca2e456f4.png",
+    "static/media/php.png": "//maikyh.github.io/miguel-garza/static/media/php.2c104da8d568faa66a2f.png",
+    "index.html": "//maikyh.github.io/miguel-garza/index.html",
+    "main.079daec5.css.map": "//maikyh.github.io/miguel-garza/static/css/main.079daec5.css.map",
+    "main.4bfc4d01.js.map": "//maikyh.github.io/miguel-garza/static/js/main.4bfc4d01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.079daec5.css",
+    "static/js/main.4bfc4d01.js"
+  ]
+}
