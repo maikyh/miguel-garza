@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "//maikyh.github.io/miguel-garza/static/css/main.079daec5.css",
-    "main.js": "//maikyh.github.io/miguel-garza/static/js/main.6925c29c.js",
+    "main.js": "//maikyh.github.io/miguel-garza/static/js/main.20743c52.js",
     "static/media/TheMangaBrowser.png": "//maikyh.github.io/miguel-garza/static/media/TheMangaBrowser.3922179c20e95fc9aacf.png",
     "static/media/ConqueringSeattle.png": "//maikyh.github.io/miguel-garza/static/media/ConqueringSeattle.fd6390b41c7cf906eb37.png",
     "static/media/logo.png": "//maikyh.github.io/miguel-garza/static/media/logo.88b51271ac99581163cc.png",
@@ -16,10 +16,10 @@
     "static/media/php.png": "//maikyh.github.io/miguel-garza/static/media/php.2c104da8d568faa66a2f.png",
     "index.html": "//maikyh.github.io/miguel-garza/index.html",
     "main.079daec5.css.map": "//maikyh.github.io/miguel-garza/static/css/main.079daec5.css.map",
-    "main.6925c29c.js.map": "//maikyh.github.io/miguel-garza/static/js/main.6925c29c.js.map"
+    "main.20743c52.js.map": "//maikyh.github.io/miguel-garza/static/js/main.20743c52.js.map"
   },
   "entrypoints": [
     "static/css/main.079daec5.css",
-    "static/js/main.6925c29c.js"
+    "static/js/main.20743c52.js"
   ]
 }
