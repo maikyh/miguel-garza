@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "//maikyh.github.io/miguel-garza/static/css/main.bd707833.css",
-    "main.js": "//maikyh.github.io/miguel-garza/static/js/main.3acc874d.js",
+    "main.css": "//maikyh.github.io/miguel-garza/static/css/main.6ab79a89.css",
+    "main.js": "//maikyh.github.io/miguel-garza/static/js/main.28b9dfa1.js",
     "static/media/ConqueringSeattle.png": "//maikyh.github.io/miguel-garza/static/media/ConqueringSeattle.fd6390b41c7cf906eb37.png",
     "static/media/TikTok-Festival.png": "//maikyh.github.io/miguel-garza/static/media/TikTok-Festival.90ced50291ecf2a2bc1e.png",
     "static/media/logo.png": "//maikyh.github.io/miguel-garza/static/media/logo.7882141ef5d9905db6fd.png",
@@ -30,11 +30,11 @@
     "static/media/mysql.png": "//maikyh.github.io/miguel-garza/static/media/mysql.c49e99a89a0ca2e456f4.png",
     "static/media/php.png": "//maikyh.github.io/miguel-garza/static/media/php.2c104da8d568faa66a2f.png",
     "index.html": "//maikyh.github.io/miguel-garza/index.html",
-    "main.bd707833.css.map": "//maikyh.github.io/miguel-garza/static/css/main.bd707833.css.map",
-    "main.3acc874d.js.map": "//maikyh.github.io/miguel-garza/static/js/main.3acc874d.js.map"
+    "main.6ab79a89.css.map": "//maikyh.github.io/miguel-garza/static/css/main.6ab79a89.css.map",
+    "main.28b9dfa1.js.map": "//maikyh.github.io/miguel-garza/static/js/main.28b9dfa1.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd707833.css",
-    "static/js/main.3acc874d.js"
+    "static/css/main.6ab79a89.css",
+    "static/js/main.28b9dfa1.js"
   ]
 }
