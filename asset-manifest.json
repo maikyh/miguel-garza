@@ -1,25 +1,40 @@
 {
   "files": {
-    "main.css": "//maikyh.github.io/miguel-garza/static/css/main.079daec5.css",
-    "main.js": "//maikyh.github.io/miguel-garza/static/js/main.bb4ac959.js",
-    "static/media/TheMangaBrowser.png": "//maikyh.github.io/miguel-garza/static/media/TheMangaBrowser.3922179c20e95fc9aacf.png",
+    "main.css": "//maikyh.github.io/miguel-garza/static/css/main.6ab79a89.css",
+    "main.js": "//maikyh.github.io/miguel-garza/static/js/main.28b9dfa1.js",
     "static/media/ConqueringSeattle.png": "//maikyh.github.io/miguel-garza/static/media/ConqueringSeattle.fd6390b41c7cf906eb37.png",
-    "static/media/logo.png": "//maikyh.github.io/miguel-garza/static/media/logo.88b51271ac99581163cc.png",
     "static/media/TikTok-Festival.png": "//maikyh.github.io/miguel-garza/static/media/TikTok-Festival.90ced50291ecf2a2bc1e.png",
-    "static/media/Miguel Garza Resume.pdf": "//maikyh.github.io/miguel-garza/static/media/Miguel Garza Resume.5d9a2dc4518a4ad7f5ec.pdf",
+    "static/media/logo.png": "//maikyh.github.io/miguel-garza/static/media/logo.7882141ef5d9905db6fd.png",
+    "static/media/granpremiomx.jpeg": "//maikyh.github.io/miguel-garza/static/media/granpremiomx.e7b087f5b7baed8ba172.jpeg",
+    "static/media/espantabugs.jpeg": "//maikyh.github.io/miguel-garza/static/media/espantabugs.1f2fe4f107eefe8ae81f.jpeg",
+    "static/media/codingcup.jpeg": "//maikyh.github.io/miguel-garza/static/media/codingcup.518b46239e5424344cd0.jpeg",
+    "static/media/trofeo.jpeg": "//maikyh.github.io/miguel-garza/static/media/trofeo.d49060c165f2b2ba7e77.jpeg",
+    "static/media/Miguel Garza Resume.pdf": "//maikyh.github.io/miguel-garza/static/media/Miguel Garza Resume.03ff9458d2d06f53b99e.pdf",
+    "static/media/oswaldo.jpeg": "//maikyh.github.io/miguel-garza/static/media/oswaldo.b68f58ec9a835c8af2de.jpeg",
+    "static/media/itlag1.jpeg": "//maikyh.github.io/miguel-garza/static/media/itlag1.00294e02a1613b4576fd.jpeg",
+    "static/media/references logo.png": "//maikyh.github.io/miguel-garza/static/media/references logo.57d4ad98c67ca6084d49.png",
+    "static/media/clase1.jpeg": "//maikyh.github.io/miguel-garza/static/media/clase1.e19fc1d46d3b14017cba.jpeg",
+    "static/media/oro.jpeg": "//maikyh.github.io/miguel-garza/static/media/oro.4322873c1c58a138254e.jpeg",
+    "static/media/itlag2.jpeg": "//maikyh.github.io/miguel-garza/static/media/itlag2.19b96e7d1ab03a113945.jpeg",
+    "static/media/tedx.jpeg": "//maikyh.github.io/miguel-garza/static/media/tedx.361fd9d73c67c8de5f23.jpeg",
+    "static/media/luzac.jpeg": "//maikyh.github.io/miguel-garza/static/media/luzac.60b1460c8acaca670e11.jpeg",
+    "static/media/clase2.jpeg": "//maikyh.github.io/miguel-garza/static/media/clase2.42d53fa005b1a5fb5c58.jpeg",
     "static/media/me.jpeg": "//maikyh.github.io/miguel-garza/static/media/me.f9163fe9b6fb4140c4aa.jpeg",
     "static/media/banner.png": "//maikyh.github.io/miguel-garza/static/media/banner.45fa4a290b461f9ea629.png",
     "static/media/react.png": "//maikyh.github.io/miguel-garza/static/media/react.236e02a25e48dfbd528d.png",
+    "static/media/secundaria.jpeg": "//maikyh.github.io/miguel-garza/static/media/secundaria.7abf86c4aa8e398d5a8c.jpeg",
+    "static/media/itlaglogo.jpeg": "//maikyh.github.io/miguel-garza/static/media/itlaglogo.0bb41928f3e017d997bc.jpeg",
+    "static/media/medalla.jpeg": "//maikyh.github.io/miguel-garza/static/media/medalla.69686c825813d98523fd.jpeg",
     "static/media/java.png": "//maikyh.github.io/miguel-garza/static/media/java.04584919241178ad427f.png",
-    "static/media/graphql.png": "//maikyh.github.io/miguel-garza/static/media/graphql.89825eab47138f364856.png",
+    "static/media/sql.png": "//maikyh.github.io/miguel-garza/static/media/sql.be36dfb1d491277fc8bf.png",
     "static/media/mysql.png": "//maikyh.github.io/miguel-garza/static/media/mysql.c49e99a89a0ca2e456f4.png",
     "static/media/php.png": "//maikyh.github.io/miguel-garza/static/media/php.2c104da8d568faa66a2f.png",
     "index.html": "//maikyh.github.io/miguel-garza/index.html",
-    "main.079daec5.css.map": "//maikyh.github.io/miguel-garza/static/css/main.079daec5.css.map",
-    "main.bb4ac959.js.map": "//maikyh.github.io/miguel-garza/static/js/main.bb4ac959.js.map"
+    "main.6ab79a89.css.map": "//maikyh.github.io/miguel-garza/static/css/main.6ab79a89.css.map",
+    "main.28b9dfa1.js.map": "//maikyh.github.io/miguel-garza/static/js/main.28b9dfa1.js.map"
   },
   "entrypoints": [
-    "static/css/main.079daec5.css",
-    "static/js/main.bb4ac959.js"
+    "static/css/main.6ab79a89.css",
+    "static/js/main.28b9dfa1.js"
   ]
 }
