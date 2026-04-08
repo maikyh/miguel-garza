@@ -7,10 +7,12 @@
   }
 }
 
-/* --- Fix hero whitespace gap on desktop --- */
-#about-me {
-  min-height: auto !important;
-  padding-bottom: 40px;
+/* --- Fix hero whitespace gap on desktop only --- */
+@media (min-width: 769px) {
+  #about-me {
+    min-height: auto !important;
+    padding-bottom: 40px;
+  }
 }
 
 /* --- Center the Tailwind .container (not centered by default) --- */
